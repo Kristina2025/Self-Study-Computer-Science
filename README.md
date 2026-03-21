@@ -1,55 +1,42 @@
-# Self-Study-Computer-Sicence
+# Self-Study-Computer-Science
 
-I've decided to teach myself computer science, starting from the basics and working my way up. At the end of this journey, I hope to give myself a full CS education. I'll use free online University courses from MIT, UC Berkeley, Standford, Harward, Princeton...
+I've decided to teach myself computer science, starting from the basics and working my way up. At the end of this journey, I hope to give myself a full CS education. I'll use free online University courses from MIT, UC Berkeley, Stanford, Princeton...
 
-Currently working on: Algebra and Geometry + CS61A - Structure and Interpretation of Computer Programs
+Currently working on: Algebra + CS61A - Structure and Interpretation of Computer Programs
 
 ## Math Courses
 
-### 1. Algebra and Geometry
+### 1. Algebra
 
 | Book Title | Date Started | Date Completed | 
 |----------|----------|----------|
-| Elementary and Intermediate Algebra by Jerome E. Kaufmann| 14.08.2025 | TBD | 
-| Everything You Need to Ace Geometry in One Big Fat Notebook by Workman Publishing | 14.08.2025 | TBD |
+| Elementary and Intermediate Algebra by Jerome E. Kaufmann| TBD | TBD | 
 
-### 2. Trigonometry and precalculus 
-
-| Book Title | Date Started | Date Completed | 
-|----------|----------|----------|
-| Algebra and Trigonometry by James Stewart | TBD | TBD | 
-| Precalculus: Graphical, Numerical, Algebraic by Demana, Franklin | TBD | TBD |
-
-### 3. Mathematics for Computer Science
+### 2. Mathematics for Computer Science
 
 | Course Title | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|
 | MIT6.042J - Mathematics for Computer Science | TBD | TBD | TBD | 
 
-
-### 4. Calculus 
-
-| Course Title | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|
-| Calculus 1 - James Stewart Single Variable Calculus / Berkeley's Math 1A| TBD | TBD | TBD | 
-| Calculus 2 - James Stewart Single Variable Calculus / Berkeley's Math 1B |  TBD | TBD | TBD | 
-| Calculus 3 - Multivariable Calculus / Berkeley's Math 53 |  TBD | TBD | TBD | 
-
-
-### 5. Linear Algebra
+### 3. Linear Algebra
 
 | Course Title | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|
-| MIT18.06: Linear Algebra | TBD | TBD | TBD | 
+| Gilbert Strang's Introduction to Linear Algebra | TBD | TBD | TBD | 
 
+### 4. Precalculus 
 
-### 6. Discrete Math and Probability 
+| Book Title | Date Started | Date Completed | 
+|----------|----------|----------|
+| Precalculus: Graphical, Numerical, Algebraic by Demana, Franklin | TBD | TBD |
+
+### 5. Calculus 
 
 | Course Title | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|
-| UCB CS70: Discrete Math and Probility Theory | TBD | TBD | TBD | 
-| MIT18.05: Introduction to Probability and Statistics | TBD | TBD | TBD | 
-| MIT6.431: Probabilistic Systems Analysis and Applied Probability |  TBD | TBD | TBD |
+| Calculus 1 - James Stewart Single Variable Calculus | TBD | TBD | TBD | 
+| Calculus 2 - James Stewart Single Variable Calculus |  TBD | TBD | TBD | 
+| Calculus 3 - Multivariable Calculus |  TBD | TBD | TBD | 
 
 
 ## Programming
@@ -70,7 +57,7 @@ Currently working on: Algebra and Geometry + CS61A - Structure and Interpretatio
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
-| CSE 373 - Steven Skiena's The Algorithm Design Manual | TBD | TBD | TBD | TBD |
+| Algorithms, Parts 1 and 2 by Princeton University | TBD | TBD | TBD | TBD |
 
 ### 4. Computer Architecture
 
@@ -107,7 +94,7 @@ Currently working on: Algebra and Geometry + CS61A - Structure and Interpretatio
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
-| UCB CS161: Computer Security | Go | TBD | TBD | TBD |
+| UCB CS161: Computer Security | Python, C | TBD | TBD | TBD |
 
 ### 10. Compilers
 
@@ -115,14 +102,8 @@ Currently working on: Algebra and Geometry + CS61A - Structure and Interpretatio
 |----------|----------|----------|----------|----------|
 | Stanford CS143: Compilers | Java, C++ | TBD | TBD | TBD |
 
-### 11. Software Engineering
+### 11. Machine Learning, AI, Deep Learning
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
-| UCB CS169: software engineering | Ruby, Javascript | TBD | TBD | TBD |
-
-### 12. Machine Learning, AI, Deep Learning
-
-| Course Title | Language | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|----------|
-| Stanford CS229: Machine Learning | / | TBD | TBD | TBD |
+| TBD | / | TBD | TBD | TBD |
