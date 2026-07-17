@@ -28,7 +28,7 @@
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
 | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/syllabus/) | Python | 15/06/2026 | TBD | TBD |
-| CS61A - Structure and Interpretation of Computer Programs | Python | 15/06/2026 | TBD | https://github.com/Kristina2025/CS61a-Self-Study |
+| [CS61A - Structure and Interpretation of Computer Programs](https://insideempire.github.io/CS61A-Website-Archive/) | Python | 15/06/2026 | TBD | https://github.com/Kristina2025/CS61a-Self-Study |
 
 ### 2. Core CS
 
@@ -80,7 +80,7 @@
 |----------|----------|----------|----------|----------|
 | [Databases: Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory) | TBD | TBD | TBD | TBD |
 | [Databases: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql) | TBD | TBD | TBD | TBD |
-| [Databases: Semistructured Data] (https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data) | TBD | TBD | TBD | TBD |
+| [Databases: Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data) | TBD | TBD | TBD | TBD |
 | [Machine Learning](https://www.deeplearning.ai/specializations/machine-learning) | TBD | TBD | TBD | TBD |
 | [Computer Graphics](https://www.edx.org/learn/computer-graphics/the-university-of-california-san-diego-computer-graphics) | TBD | TBD | TBD | TBD |
 | [Sofrtware Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | TBD | TBD | TBD | TBD |
