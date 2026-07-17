@@ -6,29 +6,11 @@ Currently working on: Algebra + CS61A - Structure and Interpretation of Computer
 
 ## Math Courses
 
-### 1. Algebra
+### 1. Pre-colledge Math
 
 | Book Title | Date Started | Date Completed | 
 |----------|----------|----------|
-| Elementary and Intermediate Algebra by Jerome E. Kaufmann| TBD | TBD | 
-
-### 2. Mathematics for Computer Science
-
-| Course Title | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|
-| MIT6.042J - Mathematics for Computer Science | TBD | TBD | TBD | 
-
-### 3. Linear Algebra
-
-| Course Title | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|
-| Gilbert Strang's Introduction to Linear Algebra | TBD | TBD | TBD | 
-
-### 4. Precalculus 
-
-| Book Title | Date Started | Date Completed | 
-|----------|----------|----------|
-| Precalculus: Graphical, Numerical, Algebraic by Demana, Franklin | TBD | TBD |
+| [Algebra 1](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8) | TBD | TBD | 
 
 ### 5. Calculus 
 
@@ -38,6 +20,11 @@ Currently working on: Algebra + CS61A - Structure and Interpretation of Computer
 | Calculus 2 - James Stewart Single Variable Calculus |  TBD | TBD | TBD | 
 | Calculus 3 - Multivariable Calculus |  TBD | TBD | TBD | 
 
+### 2. Mathematics for Computer Science
+
+| Course Title | Date Started | Date Completed | Repo | 
+|----------|----------|----------|----------|
+| MIT6.042J - Mathematics for Computer Science | TBD | TBD | TBD | 
 
 ## Programming
 
