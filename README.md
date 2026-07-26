@@ -51,9 +51,9 @@
 
 ### 4. Core Systems
 
-| Course Title | Language | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|----------|
-| [Build a Modern Computer from First Principles: From Nand to Tetris Part 1](https://www.coursera.org/learn/build-a-computer) | Flexible | TBD | TBD | TBD |
+| No. | Course Title | Language | Date Started | Date Completed | Repo | 
+|----------|----------|----------|----------|----------|----------|
+| [1]() | [Build a Modern Computer from First Principles: From Nand to Tetris Part 1](https://www.coursera.org/learn/build-a-computer) | Flexible | TBD | TBD | TBD |
 | [Build a Modern Computer from First Principles: From Nand to Tetris Part 2](https://www.coursera.org/learn/nand2tetris2) | Flexible | TBD | TBD | TBD |
 | Optional: [CS61C: Great Ideas in Computer Architecture](https://web.archive.org/web/20241219154359/https://cs61c.org/fa24/) |  C | TBD | TBD | TBD |
 | [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) |  C | TBD | TBD | TBD |
