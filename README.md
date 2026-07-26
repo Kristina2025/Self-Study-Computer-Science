@@ -6,7 +6,9 @@
 
 | Book Title | Date Started | Date Completed | 
 |----------|----------|----------|
-| [Algebra 1](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8) | 15/07/2026 | TBD |
+| [Arithmetic](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ) | 24/07/2026 | TBD |
+| [Pre-algebra](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoZuRqvrC_dxSrwr0uexm4l) | TBD | TBD |
+| [Algebra 1](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8) | TBD | TBD |
 | [Geometry](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw) | TBD | TBD | 
 | [Algebra 2](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoEvVOJzs8jrgFc1zXQVMiQ) | TBD | TBD | 
 | [Trigonometry](https://www.youtube.com/playlist?list=PLm2VEQtiYjhofP-A_QvAoTVwWjXwU7bCc) | TBD | TBD | 
@@ -28,7 +30,7 @@
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
 | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/syllabus/) | Python | 15/06/2026 | TBD | TBD |
-| [CS61A - Structure and Interpretation of Computer Programs](https://insideempire.github.io/CS61A-Website-Archive/) | Python | 15/06/2026 | TBD | https://github.com/Kristina2025/CS61a-Self-Study |
+| [CS61A - Structure and Interpretation of Computer Programs](https://insideempire.github.io/CS61A-Website-Archive/) | Python | 15/06/2026 | TBD | TBD |
 
 ### 2. Core CS
 
