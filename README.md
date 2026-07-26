@@ -1,53 +1,53 @@
-# Self-Study-Computer-Science
+# Self-Study-Computer-Science - Curriculum
 
 ## Math Courses
 
 ### 1. Pre-colledge Math
 
-| Book Title | Date Started | Date Completed | 
-|----------|----------|----------|
-| [Arithmetic](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ) | 24/07/2026 | TBD |
-| [Pre-algebra](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoZuRqvrC_dxSrwr0uexm4l) | TBD | TBD |
-| [Algebra 1](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8) | TBD | TBD |
-| [Geometry](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw) | TBD | TBD | 
-| [Algebra 2](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoEvVOJzs8jrgFc1zXQVMiQ) | TBD | TBD | 
-| [Trigonometry](https://www.youtube.com/playlist?list=PLm2VEQtiYjhofP-A_QvAoTVwWjXwU7bCc) | TBD | TBD | 
-| [Precalculus](https://www.youtube.com/playlist?list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_) | TBD | TBD | 
+| No. | Course Title | Date Started | Date Completed | 
+|----------|----------|----------| ----------|
+| [1]() | [Arithmetic](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ) | 24/07/2026 | TBD |
+| [2]() | [Pre-algebra](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoZuRqvrC_dxSrwr0uexm4l) | TBD | TBD |
+| [3]() | [Algebra 1](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8) | TBD | TBD |
+| [4]() | [Geometry](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw) | TBD | TBD | 
+| [5]() | [Algebra 2](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoEvVOJzs8jrgFc1zXQVMiQ) | TBD | TBD | 
+| [6]() | [Trigonometry](https://www.youtube.com/playlist?list=PLm2VEQtiYjhofP-A_QvAoTVwWjXwU7bCc) | TBD | TBD | 
+| [7]() | [Precalculus](https://www.youtube.com/playlist?list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_) | TBD | TBD | 
 
 ### 2. Core Math
 
-| Course Title | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|
-| [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | TBD | TBD | TBD | 
-| [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) |  TBD | TBD | TBD | 
-| [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) |  TBD | TBD | TBD | 
-| [MIT6.042J - Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | TBD | TBD | TBD | 
+| No. | Course Title | Date Started | Date Completed | Repo | 
+|----------|----------|----------|----------|----------|
+| [1]() | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | TBD | TBD | TBD | 
+| [2]() | [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) |  TBD | TBD | TBD | 
+| [3]() | [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) |  TBD | TBD | TBD | 
+| [4]() | [MIT6.042J - Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | TBD | TBD | TBD | 
 
 ## Programming
 
 ### 1. Programming Fundamentals
 
-| Course Title | Language | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|----------|
-| [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/syllabus/) | Python | 15/06/2026 | TBD | TBD |
-| [CS61A - Structure and Interpretation of Computer Programs](https://insideempire.github.io/CS61A-Website-Archive/) | Python | 15/06/2026 | TBD | TBD |
+| No. | Course Title | Language | Date Started | Date Completed | Repo | 
+|----------|----------|----------|----------|----------|----------|
+| [1](#MIT 6.0001 - Introduction to Computer Science and Programming using Python) | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/syllabus/) | Python | 15/06/2026 | TBD | TBD |
+| [2]() | [CS61A - Structure and Interpretation of Computer Programs](https://insideempire.github.io/CS61A-Website-Archive/) | Python | 15/06/2026 | TBD | TBD |
 
 ### 2. Core CS
 
-| Course Title | Language | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|----------|
-| [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015/home) | TBD | TBD | TBD | TBD |
-| [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | Java | TBD | TBD | TBD |
-| [Programming Languages](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures) | TBD | TBD | TBD | TBD |
-| [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | Java | TBD | TBD | TBD |
-| [Software Architecture](https://www.coursera.org/learn/software-architecture) | TBD | TBD | TBD | TBD |
-| Optional: [UCB CS61B: data structures and algorithms](https://sp24.datastructur.es/) | Java | TBD | TBD | TBD |
+| No. | Course Title | Language | Date Started | Date Completed | Repo | 
+|----------|----------|----------|----------|----------|----------|
+| [1]() | [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015/home) | TBD | TBD | TBD | TBD |
+| [2]() | [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | Java | TBD | TBD | TBD |
+| [3]() | [Programming Languages](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures) | TBD | TBD | TBD | TBD |
+| [4]() | [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | Java | TBD | TBD | TBD |
+| [5]() | [Software Architecture](https://www.coursera.org/learn/software-architecture) | TBD | TBD | TBD | TBD |
+| [6]() | Optional: [UCB CS61B: data structures and algorithms](https://sp24.datastructur.es/) | Java | TBD | TBD | TBD |
 
 ### 3. CS Tools
 
-| Course Title | Language | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|----------|
-| [The Missing Semester](https://missing.csail.mit.edu/) | TBD | TBD | TBD | TBD |
+| No. | Course Title | Language | Date Started | Date Completed | Repo | 
+|----------|----------|----------|----------|----------|----------|
+| [1]() | [The Missing Semester](https://missing.csail.mit.edu/) | TBD | TBD | TBD | TBD |
 
 ### 4. Core Systems
 
@@ -105,6 +105,19 @@
 | TBD | TBD| TBD | TBD | TBD |
 | TBD | TBD| TBD | TBD | TBD |
 | TBD | TBD| TBD | TBD | TBD |
+
+
+# Self-Study Computer Science - Progress
+
+## Programming Courses
+
+### Intro to CS
+
+#### MIT 6.0001 - Introduction to Computer Science and Programming using Python
+
+#### CS61A - Structure and Interpretation of Computer Programs
+
+
 
 
 
