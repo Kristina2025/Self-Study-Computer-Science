@@ -30,18 +30,18 @@
 | No. | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|----------|
 | [1](#mit-60001---introduction-to-computer-science-and-programming-using-python) | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/syllabus/) | Python | 15/06/2026 | TBD | TBD |
-| [2]() | [CS61A - Structure and Interpretation of Computer Programs](https://insideempire.github.io/CS61A-Website-Archive/) | Python | 15/06/2026 | TBD | TBD |
+| [2](#cs61a---structure-and-interpretation-of-computer-programs) | [CS61A - Structure and Interpretation of Computer Programs](https://insideempire.github.io/CS61A-Website-Archive/) | Python | 15/06/2026 | TBD | TBD |
 
 ### 2. Core CS
 
 | No. | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|----------|
-| [1]() | [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015/home) | TBD | TBD | TBD | TBD |
-| [2]() | [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | Java | TBD | TBD | TBD |
-| [3]() | [Programming Languages](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures) | TBD | TBD | TBD | TBD |
-| [4]() | [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | Java | TBD | TBD | TBD |
-| [5]() | [Software Architecture](https://www.coursera.org/learn/software-architecture) | TBD | TBD | TBD | TBD |
-| [6]() | Optional: [UCB CS61B: data structures and algorithms](https://sp24.datastructur.es/) | Java | TBD | TBD | TBD |
+| [1](#systematic-program-design) | [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015/home) | TBD | TBD | TBD | TBD |
+| [2](#class-based-program-design) | [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | Java | TBD | TBD | TBD |
+| [3](#programming-languages) | [Programming Languages](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures) | TBD | TBD | TBD | TBD |
+| [4](#object-oriented-design) | [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | Java | TBD | TBD | TBD |
+| [5](#software-architecture) | [Software Architecture](https://www.coursera.org/learn/software-architecture) | TBD | TBD | TBD | TBD |
+| [6](#cs61b:-data-structures-and-algorithms) | Optional: [CS61B: data structures and algorithms](https://sp24.datastructur.es/) | Java | TBD | TBD | TBD |
 
 ### 3. CS Tools
 
@@ -116,6 +116,21 @@
 #### MIT 6.0001 - Introduction to Computer Science and Programming using Python
 
 #### CS61A - Structure and Interpretation of Computer Programs
+
+### Core CS
+
+#### Systematic Program Design
+
+#### Class-based Program Design
+
+#### Programming Languages
+
+#### Object-Oriented Design
+
+#### Software Architecture
+
+#### CS61B: Data Structures and Algorithms
+
 
 
 
