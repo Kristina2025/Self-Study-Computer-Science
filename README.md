@@ -41,60 +41,60 @@
 | [3](#programming-languages) | [Programming Languages](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures) | TBD | TBD | TBD | TBD |
 | [4](#object-oriented-design) | [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | Java | TBD | TBD | TBD |
 | [5](#software-architecture) | [Software Architecture](https://www.coursera.org/learn/software-architecture) | TBD | TBD | TBD | TBD |
-| [6](#cs61b:-data-structures-and-algorithms) | Optional: [CS61B: data structures and algorithms](https://sp24.datastructur.es/) | Java | TBD | TBD | TBD |
+| [6](#cs61b-data-structures-and-algorithms) | Optional: [CS61B: data structures and algorithms](https://sp24.datastructur.es/) | Java | TBD | TBD | TBD |
 
 ### 3. CS Tools
 
 | No. | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|----------|
-| [1]() | [The Missing Semester](https://missing.csail.mit.edu/) | TBD | TBD | TBD | TBD |
+| [1](#the-missing-semester) | [The Missing Semester](https://missing.csail.mit.edu/) | TBD | TBD | TBD | TBD |
 
 ### 4. Core Systems
 
 | No. | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|----------|
-| [1]() | [Build a Modern Computer from First Principles: From Nand to Tetris Part 1](https://www.coursera.org/learn/build-a-computer) | Flexible | TBD | TBD | TBD |
-| [Build a Modern Computer from First Principles: From Nand to Tetris Part 2](https://www.coursera.org/learn/nand2tetris2) | Flexible | TBD | TBD | TBD |
-| Optional: [CS61C: Great Ideas in Computer Architecture](https://web.archive.org/web/20241219154359/https://cs61c.org/fa24/) |  C | TBD | TBD | TBD |
-| [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) |  C | TBD | TBD | TBD |
-| [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) |  TBD | TBD | TBD | TBD |
+| [1](#from-nand-to-tetris-part-1) | [Build a Modern Computer from First Principles: From Nand to Tetris Part 1](https://www.coursera.org/learn/build-a-computer) | Flexible | TBD | TBD | TBD |
+| [2](#from-nand-to-tetris-part-2) | [Build a Modern Computer from First Principles: From Nand to Tetris Part 2](https://www.coursera.org/learn/nand2tetris2) | Flexible | TBD | TBD | TBD |
+| [3](#cs61c-great-ideas-in-computer-architecture) | Optional: [CS61C: Great Ideas in Computer Architecture](https://web.archive.org/web/20241219154359/https://cs61c.org/fa24/) |  C | TBD | TBD | TBD |
+| [4](#operating-systems) | [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) |  C | TBD | TBD | TBD |
+| [5](#computer-networking) | [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) |  TBD | TBD | TBD | TBD |
 
 ### 5. Core Theory
 
-| Course Title | Language | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|----------|
-| [Algorithms Design and Analysis Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1) | TBD | TBD | TBD | TBD |
-| [Algorithms Design and Analysis Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) | TBD | TBD | TBD | TBD |
+| No. | Course Title | Language | Date Started | Date Completed | Repo | 
+|----------|----------|----------|----------|----------|----------|
+| [1](#algorithms-part-1) | [Algorithms Design and Analysis Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1) | TBD | TBD | TBD | TBD |
+| [2](#algorithms-part-2) | [Algorithms Design and Analysis Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) | TBD | TBD | TBD | TBD |
 
 ### 6. Core Security
 
-| Course Title | Language | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|----------|
-| [Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | TBD | TBD | TBD | TBD |
-| [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | TBD | TBD | TBD | TBD |
-| [Idenitfying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | TBD | TBD | TBD | TBD |
-| Choose this: [Idenitfying Security Vulnerabilities in C/C++ Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | TBD | TBD | TBD | TBD |
-| Or this: [Idenitfying Security Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | TBD | TBD | TBD | TBD |
+| | Course Title | Language | Date Started | Date Completed | Repo | 
+|----------|----------|----------|----------|----------|----------|
+| [1](#cybersecurity-fundamentals) | [Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | TBD | TBD | TBD | TBD |
+| [2](#principles-of-secure-coding) | [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | TBD | TBD | TBD | TBD |
+| [3](#idenitfying-security-vulnerabilities) | [Idenitfying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | TBD | TBD | TBD | TBD |
+| 4 | Choose this: [Idenitfying Security Vulnerabilities in C/C++ Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | TBD | TBD | TBD | TBD |
+| 4 | Or this: [Idenitfying Security Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | TBD | TBD | TBD | TBD |
 
 ### 7. Core Applications
 
-| Course Title | Language | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|----------|
-| [Databases: Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory) | TBD | TBD | TBD | TBD |
-| [Databases: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql) | TBD | TBD | TBD | TBD |
-| [Databases: Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data) | TBD | TBD | TBD | TBD |
-| [Machine Learning](https://www.deeplearning.ai/specializations/machine-learning) | TBD | TBD | TBD | TBD |
-| [Computer Graphics](https://www.edx.org/learn/computer-graphics/the-university-of-california-san-diego-computer-graphics) | TBD | TBD | TBD | TBD |
-| [Sofrtware Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | TBD | TBD | TBD | TBD |
+| No. | Course Title | Language | Date Started | Date Completed | Repo | 
+|----------|----------|----------|----------|----------|----------|
+| [1](#databases-modeling-and-theory) | [Databases: Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory) | TBD | TBD | TBD | TBD |
+| [2](#databases-relational-databases-and-sql) | [Databases: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql) | TBD | TBD | TBD | TBD |
+| [3](#databases-semistructured-data) | [Databases: Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data) | TBD | TBD | TBD | TBD |
+| [4](#machine-learning) | [Machine Learning](https://www.deeplearning.ai/specializations/machine-learning) | TBD | TBD | TBD | TBD |
+| [5](#computer-graphics) | [Computer Graphics](https://www.edx.org/learn/computer-graphics/the-university-of-california-san-diego-computer-graphics) | TBD | TBD | TBD | TBD |
+| [6](#sofrtware-engineering) | [Sofrtware Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | TBD | TBD | TBD | TBD |
 
 
 ### 8. Core Ethics
 
-| Course Title | Language | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|----------|
-| [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering) | TBD | TBD | TBD | TBD |
-| [Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) | TBD | TBD | TBD | TBD |
-| [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy) | TBD | TBD | TBD | TBD |
+| No. | Course Title | Language | Date Started | Date Completed | Repo | 
+|----------|----------|----------|----------|----------|----------|
+| [1](#ethics-technology-and-engineering) | [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering) | TBD | TBD | TBD | TBD |
+| [2](#introduction-to-intellectual-property) | [Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) | TBD | TBD | TBD | TBD |
+| [3](#data-privacy-fundamentals) | [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy) | TBD | TBD | TBD | TBD |
 
 ### 9. Advanced CS
 
@@ -109,30 +109,58 @@
 
 # Self-Study Computer Science - Progress
 
-## ----------------Programming Courses-----------------
+## ----------------Programming Courses----------------
 
-### ------------Intro to CS---------------
-
+### ------------Intro to CS------------
 #### MIT 6.0001 - Introduction to Computer Science and Programming using Python
-
 #### CS61A - Structure and Interpretation of Computer Programs
 
-### ------------Core CS--------------
-
+### ------------Core CS------------
 #### Systematic Program Design
-
 #### Class-based Program Design
-
 #### Programming Languages
-
 #### Object-Oriented Design
-
 #### Software Architecture
+#### CS61B Data Structures and Algorithms
 
-#### CS61B: Data Structures and Algorithms
+### ------------CS Tools------------
+#### The Missing Semester
+
+### ------------Core Systems------------
+#### From Nand to Tetris Part 1
+#### From Nand to Tetris Part 2
+#### CS61C Great Ideas in Computer Architecture
+#### Operating Systems
+#### Computer Networking
+
+### ------------Core Theory------------
+#### Algorithms Part 1
+#### Amgorithms Part 2
+
+### ------------Core Security------------
+
+#### Cybersecurity Fundamentals
+#### Principles of Secure Coding
+#### Idenitfying Security Vulnerabilities
+
+### ------------Core Applications------------
+#### Databases Modeling and Theory
+#### Databases: Relational Databases and SQL
+#### Databases: Semistructured Data
+#### Machine Learning
+#### Computer Graphics
+#### Sofrtware Engineering
+
+### ------------Core Ethics------------
+#### Ethics Technology and Engineering
+#### Introduction to Intellectual Property
+#### Data Privacy Fundamentals
+
+### ------------Advanced CS------------
+#### TBD
 
 
-## -----------------------Math Courses-----------------------
+## ----------------Math Courses----------------
 
 ### Arithmetic
 ### Pre-algebra
@@ -140,6 +168,7 @@
 ### Geometry
 ### Algebra 2
 ### Trigonometry
+### Precalculus
 ### Calculus 1a
 ### Calculus 1b
 ### Calculus 1c
