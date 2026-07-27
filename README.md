@@ -113,7 +113,77 @@
 
 ### ------------Intro to CS------------
 #### MIT 6.0001 - Introduction to Computer Science and Programming using Python
+| No. | Lecture                                                      | Finger Exercises    | Problem Sets              |
+|----|---------------------------------------------------------------|---------------------|---------------------------|
+| 1 | Intro :white_check_mark:                                       | :white_check_mark:  | PSET00 :white_check_mark: |
+| 2 | Strings, Input/Output, Branching :white_check_mark:            | :white_check_mark:  | /                         |
+| 3 | Iteration :white_check_mark:                                   | :white_check_mark:  | /                         |
+| 4 | Loops over Strings, Guess-and-Check, Binary :white_check_mark: | :white_check_mark:  | /                         |
+| 5 | Floats and Approximation Methods                               | /                   | /                         |
+| 6 | Bisection Search                                               | /                   | /                         |
+| 7 | Decomposition, Abstraction, Functions                          | /                   | /                         |
+| 8 | Functions as Objects                                           | /                   | PSET01                    |
+| 9 | Lambda Functions, Tuples, and Lists                            | /                   | /                         |
+| 10 | Lists, Mutability                                             | /                   | /                         |
+| 11 | Aliasing, Cloning                                             | /                   | PSET02                    |
+| 12 | List Comprehension, Testing, Debugging                        | /                   | /                         |
+| 13 | Exceptions, Assertions                                        | /                   | /                         |
+| 14 | Dictionaries                                                  | /                   | /                         |
+| 15 | Recursion                                                     | /                   | PSET03                    |
+| 16 | Recursion on Non-Numerics                                     | /                   | /                         |
+| 17 | Python Classes                                                | /                   | /                         |
+| 18 | More Python Class Methods                                     | /                   | /                         |
+| 19 | Inheritance                                                   | /                   | PSET04                    |
+| 20 | Fitness Tracker OOP                                           | /                   | /                         |
+| 21 | Timing Programs, Counting Operations                          | /                   | /                         |
+| 22 | Big Oh and Theta                                              | /                   | /                         |
+| 23 | Complexity Classes Examples                                   | /                   | /                         |
+| 24 | Sorting Algorithms                                            | /                   | PSET05                    |
+| 25 | Plotting                                                      | /                   | /                         |
+| 26 | List Access, Hashing, Simulations                             | /                   | /                         |
+
 #### CS61A - Structure and Interpretation of Computer Programs
+| Week No. | Lecture                                    | Lab or Disc                | Homework or Project        |
+|----------|--------------------------------------------|----------------------------|----------------------------|
+| Week 1   | Welcome :white_check_mark:                 | Disc00 :white_check_mark:  | /                          |
+| Week 1   | Functions :white_check_mark:               | Lab00 :white_check_mark:   | HW01 :white_check_mark:    |
+| Week 2   | Control :white_check_mark:                 | Lab01 :white_check_mark:   | HW02 :white_check_mark:    |
+| Week 2   | Higher-Order Functions :white_check_mark:  | Disc01 :white_check_mark:  | Hog :white_check_mark:     |
+| Week 3   | Environments :white_check_mark:            | lab02 :white_check_mark:   | /                          |
+| Week 3   | Functional Abstraction :white_check_mark:  | disc02 :white_check_mark:  | /                          |
+| Week 3   | Function Examples :white_check_mark:       | /                          | /                          |
+| Week 4   | Midterm 1 :white_check_mark:               | /                          | /                          |
+| Week 4   | Recursion :white_check_mark:               | Disc03 :white_check_mark:  | /                          |
+| Week 4   | Tree Recursion :white_check_mark:          | /                          | HW03 :white_check_mark:    |
+| Week 5   | Sequences                                  | lab03                      | /                          |
+| Week 5   | Containers                                 | disc04                     | Cats                       |
+| Week 5   | Data Abstraction                           | /                          | HW04                       |
+| Week 6   | Trees                                      | lab04                      | /                          |
+| Week 6   | Mutability                                 | disc05                     | /                          |
+| Week 6   | Iterators                                  | /                          | HW04                       |
+| Week 7   | Generators                                 | lab05                      | /                          |
+| Week 7   | Objects                                    | disc06                     | HW05                       |
+| Week 7   | Attributes                                 | /                          | Ants                       |
+| Week 8   | Inheritance                                | lab06                      | /                          |
+| Week 8   | Representation                             | disc07                     | /                          |
+| Week 8   | Composition                                | /                          | HW06                       |
+| Week 9   | Efficiency                                 | lab07                      | /                          |
+| Week 9   | Decomposition                              | disc08                     | /                          |
+| Week 9   | Data Examples                              | /                          | /                          |
+| Week 10  | Midterm 2                                  | lab08                      | /                          |
+| Week 11  | Scheme                                     | lab09                      | HW07                       |
+| Week 11  | Scheme Lists                               | disc09                     | /                          |
+| Week 11  | Calculator                                 | /                          | HW08                       |
+| Week 12  | Interpreters                               | lab10                      | Scheme                     |
+| Week 12  | Programs as Data                           | disc10                     | HW09                       |
+| Week 13  | Macros                                     | lab11                      | /                          |
+| Week 13  | SQL                                        | disc11                     | /                          |
+| Week 13  | Tables                                     | /                          | HW10                       |
+| Week 14  | Aggregation                                | /                          | /                          |
+| Week 14  | Databases                                  | lab12                      | /                          |
+| Week 14  | Designing Functions                        | disc12                     | HW11                       |
+| Week 15  | Final                                      | /                          | /                          |
+
 
 ### ------------Core CS------------
 #### Systematic Program Design
@@ -163,6 +233,48 @@
 ## ----------------Math Courses----------------
 
 #### Arithmetic
+| Class No. | Class Title | Status | 
+|----------|----------|----------|
+| 1 | Intro, Course Content and Staying Organized | :white_check_mark: |
+| 2 | Introduction to Numbers | :white_check_mark: |
+| 3 | Adding Whole Numbers | :white_check_mark: |
+| 4 | Subtracting Whole Numbers | :white_check_mark: |
+| 5 | Memorizing Products | TBD |
+| 6 | Multiplying Multi-Digit Whole Numbers | TBD |
+| 7 | Dividing Whole Numbers - Part 1 | TBD |
+| 8 | Dividing Whole Numbers - Part 2 | TBD |
+| 9 | Review for Test 1 | TBD |
+| 10 | Test 1 | TBD |
+| 11 | Fractions and Fraction Equivalency | TBD |
+| 12 | Adding and Subtracting Fractions | TBD |
+| 13 | Multiplying and Dividing Fractions | TBD |
+| 14 | Adding and Subtracting Mixed Numbers | TBD |
+| 15 | Multiplying and Dividing Mixed Numbers | TBD |
+| 16 | Review for Test 2 | TBD |
+| 17 | Test 2 | TBD |
+| 18 | Introduction to Decimals | TBD |
+| 19 | Operations with Decimals Part 1 | TBD |
+| 20 | Operations with Decimals Part 2 | TBD |
+| 21 | Percents and Converting between All Three Forms of fractions | TBD |
+| 22 | Applications of Percents | TBD |
+| 23 | The Order of Operations Agreement and Geometric Formulas | TBD |
+| 24 | Further Applications of the Order of Operations Agreement | TBD |
+| 25 | Ratios and Rates | TBD |
+| 26 | Proportions | TBD |
+| 27 | Rounding | TBD |
+| 28 | Basic Statistics and Graphs | TBD |
+| 29 | Review for Test 3 | TBD |
+| 30 | Test 3 | TBD |
+| 31 | Review for Test 4 | TBD |
+| 32 | Test 4 | TBD |
+| 33 | A Few More Things Part 1 | TBD |
+| 34 | A Few More Things Part 2 | TBD |
+| 35 | Multistep Word Problems | TBD |
+| 36 | Competitive Tests | TBD |
+| 37 | Review for the Final Exam | TBD |
+| 38 | Final Exam | TBD |
+| 39 | Calculate Grade for the Course | TBD |
+
 #### Pre-algebra
 #### Algebra 1
 #### Geometry
