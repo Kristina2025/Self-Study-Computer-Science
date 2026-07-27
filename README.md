@@ -6,22 +6,22 @@
 
 | No. | Course Title | Date Started | Date Completed | 
 |----------|----------|----------| ----------|
-| [1]() | [Arithmetic](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ) | 24/07/2026 | TBD |
-| [2]() | [Pre-algebra](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoZuRqvrC_dxSrwr0uexm4l) | TBD | TBD |
-| [3]() | [Algebra 1](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8) | TBD | TBD |
-| [4]() | [Geometry](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw) | TBD | TBD | 
-| [5]() | [Algebra 2](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoEvVOJzs8jrgFc1zXQVMiQ) | TBD | TBD | 
-| [6]() | [Trigonometry](https://www.youtube.com/playlist?list=PLm2VEQtiYjhofP-A_QvAoTVwWjXwU7bCc) | TBD | TBD | 
-| [7]() | [Precalculus](https://www.youtube.com/playlist?list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_) | TBD | TBD | 
+| [1](#arithmetic) | [Arithmetic](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ) | 24/07/2026 | TBD |
+| [2](#pre-algebra) | [Pre-algebra](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoZuRqvrC_dxSrwr0uexm4l) | TBD | TBD |
+| [3](#algebra-1) | [Algebra 1](https://www.youtube.com/playlist?list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8) | TBD | TBD |
+| [4](#geometry) | [Geometry](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw) | TBD | TBD | 
+| [5](#algebra-2) | [Algebra 2](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoEvVOJzs8jrgFc1zXQVMiQ) | TBD | TBD | 
+| [6](#trigonometry) | [Trigonometry](https://www.youtube.com/playlist?list=PLm2VEQtiYjhofP-A_QvAoTVwWjXwU7bCc) | TBD | TBD | 
+| [7](#precalculus) | [Precalculus](https://www.youtube.com/playlist?list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_) | TBD | TBD | 
 
 ### 2. Core Math
 
 | No. | Course Title | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
-| [1]() | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | TBD | TBD | TBD | 
-| [2]() | [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) |  TBD | TBD | TBD | 
-| [3]() | [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) |  TBD | TBD | TBD | 
-| [4]() | [MIT6.042J - Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | TBD | TBD | TBD | 
+| [1](#calculus-1a) | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | TBD | TBD | TBD | 
+| [2](#calculus-1b) | [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) |  TBD | TBD | TBD | 
+| [3](#calculus-1c) | [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) |  TBD | TBD | TBD | 
+| [4](#math-for-computer-science) | [MIT6.042J - Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | TBD | TBD | TBD | 
 
 ## Programming
 
@@ -109,15 +109,15 @@
 
 # Self-Study Computer Science - Progress
 
-## Programming Courses
+## ----------------Programming Courses-----------------
 
-### Intro to CS
+### ------------Intro to CS---------------
 
 #### MIT 6.0001 - Introduction to Computer Science and Programming using Python
 
 #### CS61A - Structure and Interpretation of Computer Programs
 
-### Core CS
+### ------------Core CS--------------
 
 #### Systematic Program Design
 
@@ -132,7 +132,18 @@
 #### CS61B: Data Structures and Algorithms
 
 
+## -----------------------Math Courses-----------------------
 
+### Arithmetic
+### Pre-algebra
+### Algebra 1
+### Geometry
+### Algebra 2
+### Trigonometry
+### Calculus 1a
+### Calculus 1b
+### Calculus 1c
+### Math for Computer Science
 
 
 
