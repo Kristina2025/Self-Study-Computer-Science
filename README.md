@@ -162,17 +162,17 @@
 
 ## ----------------Math Courses----------------
 
-### Arithmetic
-### Pre-algebra
-### Algebra 1
-### Geometry
-### Algebra 2
-### Trigonometry
-### Precalculus
-### Calculus 1a
-### Calculus 1b
-### Calculus 1c
-### Math for Computer Science
+#### Arithmetic
+#### Pre-algebra
+#### Algebra 1
+#### Geometry
+#### Algebra 2
+#### Trigonometry
+#### Precalculus
+#### Calculus 1a
+#### Calculus 1b
+#### Calculus 1c
+#### Math for Computer Science
 
 
 
