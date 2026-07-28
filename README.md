@@ -239,7 +239,7 @@
 | 2 | Introduction to Numbers | :white_check_mark: |
 | 3 | Adding Whole Numbers | :white_check_mark: |
 | 4 | Subtracting Whole Numbers | :white_check_mark: |
-| 5 | Memorizing Products | TBD |
+| 5 | Memorizing Products | :white_check_mark: |
 | 6 | Multiplying Multi-Digit Whole Numbers | TBD |
 | 7 | Dividing Whole Numbers - Part 1 | TBD |
 | 8 | Dividing Whole Numbers - Part 2 | TBD |
