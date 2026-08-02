@@ -119,7 +119,7 @@
 | 2 | Strings, Input/Output, Branching :white_check_mark:            | :white_check_mark:  | /                         |
 | 3 | Iteration :white_check_mark:                                   | :white_check_mark:  | /                         |
 | 4 | Loops over Strings, Guess-and-Check, Binary :white_check_mark: | :white_check_mark:  | /                         |
-| 5 | Floats and Approximation Methods                               | /                   | /                         |
+| 5 | Floats and Approximation Methods                               | :white_check_mark:  | /                         |
 | 6 | Bisection Search                                               | /                   | /                         |
 | 7 | Decomposition, Abstraction, Functions                          | /                   | /                         |
 | 8 | Functions as Objects                                           | /                   | PSET01                    |
@@ -155,8 +155,8 @@
 | Week 4   | Midterm 1 :white_check_mark:               | /                          | /                          |
 | Week 4   | Recursion :white_check_mark:               | Disc03 :white_check_mark:  | /                          |
 | Week 4   | Tree Recursion :white_check_mark:          | /                          | HW03 :white_check_mark:    |
-| Week 5   | Sequences                                  | lab03                      | /                          |
-| Week 5   | Containers                                 | disc04                     | Cats                       |
+| Week 5   | Sequences :white_check_mark:               | lab03                      | /                          |
+| Week 5   | Containers :white_check_mark:              | disc04                     | Cats                       |
 | Week 5   | Data Abstraction                           | /                          | HW04                       |
 | Week 6   | Trees                                      | lab04                      | /                          |
 | Week 6   | Mutability                                 | disc05                     | /                          |
@@ -241,7 +241,7 @@
 | 4 | Subtracting Whole Numbers | :white_check_mark: |
 | 5 | Memorizing Products | :white_check_mark: |
 | 6 | Multiplying Multi-Digit Whole Numbers | :white_check_mark: |
-| 7 | Dividing Whole Numbers - Part 1 | TBD |
+| 7 | Dividing Whole Numbers - Part 1 | :white_check_mark: |
 | 8 | Dividing Whole Numbers - Part 2 | TBD |
 | 9 | Review for Test 1 | TBD |
 | 10 | Test 1 | TBD |
