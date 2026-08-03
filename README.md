@@ -119,8 +119,8 @@
 | 2 | Strings, Input/Output, Branching :white_check_mark:            | :white_check_mark:  | /                         |
 | 3 | Iteration :white_check_mark:                                   | :white_check_mark:  | /                         |
 | 4 | Loops over Strings, Guess-and-Check, Binary :white_check_mark: | :white_check_mark:  | /                         |
-| 5 | Floats and Approximation Methods                               | :white_check_mark:  | /                         |
-| 6 | Bisection Search                                               | /                   | /                         |
+| 5 | Floats and Approximation Methods :white_check_mark:            | :white_check_mark:  | /                         |
+| 6 | Bisection Search :white_check_mark:                            | /                   | /                         |
 | 7 | Decomposition, Abstraction, Functions                          | /                   | /                         |
 | 8 | Functions as Objects                                           | /                   | PSET01                    |
 | 9 | Lambda Functions, Tuples, and Lists                            | /                   | /                         |
