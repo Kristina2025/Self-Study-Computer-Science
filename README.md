@@ -113,34 +113,34 @@
 
 ### ------------Intro to CS------------
 #### MIT 6.0001 - Introduction to Computer Science and Programming using Python
-| No. | Lecture                                                      | Finger Exercises    | Problem Sets              |
-|----|---------------------------------------------------------------|---------------------|---------------------------|
-| 1 | Intro :white_check_mark:                                       | :white_check_mark:  | PSET00 :white_check_mark: |
-| 2 | Strings, Input/Output, Branching :white_check_mark:            | :white_check_mark:  | /                         |
-| 3 | Iteration :white_check_mark:                                   | :white_check_mark:  | /                         |
-| 4 | Loops over Strings, Guess-and-Check, Binary :white_check_mark: | :white_check_mark:  | /                         |
-| 5 | Floats and Approximation Methods :white_check_mark:            | :white_check_mark:  | /                         |
-| 6 | Bisection Search :white_check_mark:                            | :white_check_mark:  | /                         |
-| 7 | Decomposition, Abstraction, Functions                          | /                   | /                         |
-| 8 | Functions as Objects                                           | /                   | PSET01                    |
-| 9 | Lambda Functions, Tuples, and Lists                            | /                   | /                         |
-| 10 | Lists, Mutability                                             | /                   | /                         |
-| 11 | Aliasing, Cloning                                             | /                   | PSET02                    |
-| 12 | List Comprehension, Testing, Debugging                        | /                   | /                         |
-| 13 | Exceptions, Assertions                                        | /                   | /                         |
-| 14 | Dictionaries                                                  | /                   | /                         |
-| 15 | Recursion                                                     | /                   | PSET03                    |
-| 16 | Recursion on Non-Numerics                                     | /                   | /                         |
-| 17 | Python Classes                                                | /                   | /                         |
-| 18 | More Python Class Methods                                     | /                   | /                         |
-| 19 | Inheritance                                                   | /                   | PSET04                    |
-| 20 | Fitness Tracker OOP                                           | /                   | /                         |
-| 21 | Timing Programs, Counting Operations                          | /                   | /                         |
-| 22 | Big Oh and Theta                                              | /                   | /                         |
-| 23 | Complexity Classes Examples                                   | /                   | /                         |
-| 24 | Sorting Algorithms                                            | /                   | PSET05                    |
-| 25 | Plotting                                                      | /                   | /                         |
-| 26 | List Access, Hashing, Simulations                             | /                   | /                         |
+| No. | Lecture                                                      | Finger Exercises    | Problem Sets              |  Problem Sets             |
+|----|---------------------------------------------------------------|---------------------|---------------------------|---------------------------|
+| 1 | Intro :white_check_mark:                                       | :white_check_mark:  | /                         | PSET00 :white_check_mark: |
+| 2 | Strings, Input/Output, Branching :white_check_mark:            | :white_check_mark:  | /                         | /                         |
+| 3 | Iteration :white_check_mark:                                   | :white_check_mark:  | Quiz 1 :white_check_mark: | /                         |
+| 4 | Loops over Strings, Guess-and-Check, Binary :white_check_mark: | :white_check_mark:  | /                         | /                         |
+| 5 | Floats and Approximation Methods :white_check_mark:            | :white_check_mark:  | Quiz 2 :white_check_mark: | /                         |
+| 6 | Bisection Search :white_check_mark:                            | :white_check_mark:  | /                         | /                         |
+| 7 | Decomposition, Abstraction, Functions                          | /                   | Quiz 3                    | /                         |
+| 8 | Functions as Objects                                           | /                   | /                         | PSET01                    |
+| 9 | Lambda Functions, Tuples, and Lists                            | /                   | Quiz 4                    | /                         |
+| 10 | Lists, Mutability                                             | /                   | /                         | /                         |
+| 11 | Aliasing, Cloning                                             | /                   | Quiz 5                    | PSET02                    |
+| 12 | List Comprehension, Testing, Debugging                        | /                   | /                         | /                         |
+| 13 | Exceptions, Assertions                                        | /                   | Quiz 6                    | /                         |
+| 14 | Dictionaries                                                  | /                   | /                         | /                         |
+| 15 | Recursion                                                     | /                   | Quiz 7                    | PSET03                    |
+| 16 | Recursion on Non-Numerics                                     | /                   | /                         | /                         |
+| 17 | Python Classes                                                | /                   | Quiz 8                    | /                         |
+| 18 | More Python Class Methods                                     | /                   | /                         | /                         |
+| 19 | Inheritance                                                   | /                   | /                         | PSET04                    |
+| 20 | Fitness Tracker OOP                                           | /                   | /                         | /                         |
+| 21 | Timing Programs, Counting Operations                          | /                   | Quiz 9                    | /                         |
+| 22 | Big Oh and Theta                                              | /                   | /                         | /                         |
+| 23 | Complexity Classes Examples                                   | /                   | /                         | /                         |
+| 24 | Sorting Algorithms                                            | /                   | Quiz 10                   | PSET05                    |
+| 25 | Plotting                                                      | /                   | /                         | /                         |
+| 26 | List Access, Hashing, Simulations                             | /                   | /                         | /                         |
 
 #### CS61A - Structure and Interpretation of Computer Programs
 | Week No. | Lecture                                    | Lab or Disc                | Homework or Project        |
