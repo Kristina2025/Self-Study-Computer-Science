@@ -243,7 +243,7 @@
 | 6 | Multiplying Multi-Digit Whole Numbers | :white_check_mark: |
 | 7 | Dividing Whole Numbers - Part 1 | :white_check_mark: |
 | 8 | Dividing Whole Numbers - Part 2 | :white_check_mark: |
-| 9 | Review for Test 1 | TBD |
+| 9 | Review for Test 1 | :white_check_mark: |
 | 10 | Test 1 | TBD |
 | 11 | Fractions and Fraction Equivalency | TBD |
 | 12 | Adding and Subtracting Fractions | TBD |
