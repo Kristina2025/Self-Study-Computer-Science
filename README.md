@@ -143,46 +143,46 @@
 | 26 | List Access, Hashing, Simulations                             | /                   | /                         | /                         |
 
 #### CS61A - Structure and Interpretation of Computer Programs
-| Week No. | Lecture                                    | Lab or Disc                | Homework or Project        |
-|----------|--------------------------------------------|----------------------------|----------------------------|
-| Week 1   | Welcome :white_check_mark:                 | Disc00 :white_check_mark:  | /                          |
-| Week 1   | Functions :white_check_mark:               | Lab00 :white_check_mark:   | HW01 :white_check_mark:    |
-| Week 2   | Control :white_check_mark:                 | Lab01 :white_check_mark:   | HW02 :white_check_mark:    |
-| Week 2   | Higher-Order Functions :white_check_mark:  | Disc01 :white_check_mark:  | Hog :white_check_mark:     |
-| Week 3   | Environments :white_check_mark:            | lab02 :white_check_mark:   | /                          |
-| Week 3   | Functional Abstraction :white_check_mark:  | disc02 :white_check_mark:  | /                          |
-| Week 3   | Function Examples :white_check_mark:       | /                          | /                          |
-| Week 4   | Midterm 1 :white_check_mark:               | /                          | /                          |
-| Week 4   | Recursion :white_check_mark:               | Disc03 :white_check_mark:  | /                          |
-| Week 4   | Tree Recursion :white_check_mark:          | /                          | HW03 :white_check_mark:    |
-| Week 5   | Sequences :white_check_mark:               | lab03                      | /                          |
-| Week 5   | Containers :white_check_mark:              | disc04                     | Cats                       |
-| Week 5   | Data Abstraction                           | /                          | HW04                       |
-| Week 6   | Trees                                      | lab04                      | /                          |
-| Week 6   | Mutability                                 | disc05                     | /                          |
-| Week 6   | Iterators                                  | /                          | HW04                       |
-| Week 7   | Generators                                 | lab05                      | /                          |
-| Week 7   | Objects                                    | disc06                     | HW05                       |
-| Week 7   | Attributes                                 | /                          | Ants                       |
-| Week 8   | Inheritance                                | lab06                      | /                          |
-| Week 8   | Representation                             | disc07                     | /                          |
-| Week 8   | Composition                                | /                          | HW06                       |
-| Week 9   | Efficiency                                 | lab07                      | /                          |
-| Week 9   | Decomposition                              | disc08                     | /                          |
-| Week 9   | Data Examples                              | /                          | /                          |
-| Week 10  | Midterm 2                                  | lab08                      | /                          |
-| Week 11  | Scheme                                     | lab09                      | HW07                       |
-| Week 11  | Scheme Lists                               | disc09                     | /                          |
-| Week 11  | Calculator                                 | /                          | HW08                       |
-| Week 12  | Interpreters                               | lab10                      | Scheme                     |
-| Week 12  | Programs as Data                           | disc10                     | HW09                       |
-| Week 13  | Macros                                     | lab11                      | /                          |
-| Week 13  | SQL                                        | disc11                     | /                          |
-| Week 13  | Tables                                     | /                          | HW10                       |
-| Week 14  | Aggregation                                | /                          | /                          |
-| Week 14  | Databases                                  | lab12                      | /                          |
-| Week 14  | Designing Functions                        | disc12                     | HW11                       |
-| Week 15  | Final                                      | /                          | /                          |
+|No.| Lecture (videos)                           | Lecture (recordings)                        | QA                 | Lab or Disc                | Homework or Project        |
+|---|--------------------------------------------|---------------------------------------------|--------------------| ---------------------------|----------------------------|
+| 1 | Welcome :white_check_mark:                 | Introduction :white_check_mark:             | :white_check_mark: | Disc00 :white_check_mark:  | /                          |
+| 2 | Functions :white_check_mark:               | Functions                                   | :white_check_mark: | Lab00 :white_check_mark:   | HW01 :white_check_mark:    |
+| 3 | Control :white_check_mark:                 | Control                                     | :white_check_mark: | Lab01 :white_check_mark:   | HW02 :white_check_mark:    |
+| 4 | Higher-Order Functions :white_check_mark:  | Higher-Order Functions                      | :white_check_mark: | Disc01 :white_check_mark:  | Hog :white_check_mark:     |
+| 5 | Environments :white_check_mark:            | Environments                                | /                  | lab02 :white_check_mark:   | /                          |
+| 6 | Functional Abstraction :white_check_mark:  | Recursion                                   | /                  | disc02 :white_check_mark:  | /                          |
+| 7 | Function Examples :white_check_mark:       | Tree Recursion                              | /                  |  /                         | /                          |
+| 8 | Midterm 1 :white_check_mark:               | More on Functions                           | /                  |  /                         | /                          |
+| 9 | Recursion :white_check_mark:               | Function Examples                           | /                  |  Disc03 :white_check_mark: | /                          |
+| 10 | Tree Recursion :white_check_mark:         | Containers                                  | /                  | /                          | HW03 :white_check_mark:    |
+| 11 | Sequences :white_check_mark:              | Data Abstraction                            | /                  | lab03                      | /                          | 
+| 12 | Containers :white_check_mark:             | Dictionaries, Matrices                      | /                  | disc04                     | Cats                       |
+| 13 | Data Abstraction                          | Trees, Mutability                           | /                  | /                          | HW04                       |
+| 14 | Trees                                     | List Mutations, Identity                    | /                  | lab04                      | /                          |
+| 15 | Mutability                                | Iterators + Generators                      | /                  | disc05                     | /                          |
+| 16 | Iterators                                 | Objects + Classes                           | /                  | /                          | HW04                       |
+| 17 | Generators                                | Inheritance + Composition                   | /                  | lab05                      | /                          |
+| 18 | Objects                                   | Special Object Methods                      | /                  | disc06                     | HW05                       |
+| 19 | Attributes                                | Recursive Objects                           | /                  | /                          | Ants                       |
+| 20 | Inheritance                               | Complexity                                  | /                  | lab06                      | /                          |
+| 21 | Representation                            | Memoization                                 | /                  | disc07                     | /                          |
+| 22 | Composition                               | Generics                                    | /                  | /                          | HW06                       |
+| 23 | Efficiency                                | Fun with Iterables                          | /                  | lab07                      | /                          |
+| 24 | Decomposition                             | Scheme                                      | /                  | disc08                     | /                          |
+| 25 | Data Examples                             | Scheme Examples                             | /                  | /                          | /                          |
+| 26 | Midterm 2                                 | Calculator                                  | /                  | lab08                      | /                          |
+| 27 | Scheme                                    | Interpreters                                | /                  | lab09                      | HW07                       |
+| 28 | Scheme Lists                              | Undecidability                              | /                  | disc09                     | /                          |
+| 29 | Calculator                                | Macros                                      | /                  | /                          | HW08                       |
+| 30 | Interpreters                              | Declarative Programming                     | /                  | lab10                      | Scheme                     |
+| 31 | Programs as Data                          | Regulator Expressions                       | /                  | disc10                     | HW09                       |
+| 32 | Macros                                    | BNF                                         | /                  | lab11                      | /                          |
+| 33 | SQL                                       | Review Regex BNF                            | /                  | disc11                     | /                          |
+| 34 | Tables                                    | Review Scheme                               | /                  | /                          | HW10                       |
+| 35 | Aggregation                               | Intro to SQL                                | /                  | /                          | /                          |
+| 36 | Databases                                 | Review Trees                                | /                  | lab12                      | /                          |
+| 37 | Designing Functions                       | Review OOP                                  | /                  | disc12                     | HW11                       |
+| 38 | Final                                     | Design                                      | /                  | /                          | /                          |
 
 
 ### ------------Core CS------------
