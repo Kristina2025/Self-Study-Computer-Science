@@ -146,11 +146,11 @@
 |No.| Lecture (videos)                           | Lecture (recordings)                        | QA                 | Lab or Disc                | Homework or Project        |
 |---|--------------------------------------------|---------------------------------------------|--------------------| ---------------------------|----------------------------|
 | 1 | Welcome :white_check_mark:                 | Introduction :white_check_mark:             | :white_check_mark: | Disc00 :white_check_mark:  | /                          |
-| 2 | Functions :white_check_mark:               | Functions                                   | :white_check_mark: | Lab00 :white_check_mark:   | HW01 :white_check_mark:    |
-| 3 | Control :white_check_mark:                 | Control                                     | :white_check_mark: | Lab01 :white_check_mark:   | HW02 :white_check_mark:    |
-| 4 | Higher-Order Functions :white_check_mark:  | Higher-Order Functions                      | :white_check_mark: | Disc01 :white_check_mark:  | Hog :white_check_mark:     |
-| 5 | Environments :white_check_mark:            | Environments                                | /                  | lab02 :white_check_mark:   | /                          |
-| 6 | Functional Abstraction :white_check_mark:  | Recursion                                   | /                  | disc02 :white_check_mark:  | /                          |
+| 2 | Functions :white_check_mark:               | Functions :white_check_mark:                | :white_check_mark: | Lab00 :white_check_mark:   | HW01 :white_check_mark:    |
+| 3 | Control :white_check_mark:                 | Control :white_check_mark:                  | :white_check_mark: | Lab01 :white_check_mark:   | HW02 :white_check_mark:    |
+| 4 | Higher-Order Functions :white_check_mark:  | Higher-Order Functions :white_check_mark:   | :white_check_mark: | Disc01 :white_check_mark:  | Hog :white_check_mark:     |
+| 5 | Environments :white_check_mark:            | Environments :white_check_mark:             | /                  | lab02 :white_check_mark:   | /                          |
+| 6 | Functional Abstraction :white_check_mark:  | Recursion :white_check_mark:                | /                  | disc02 :white_check_mark:  | /                          |
 | 7 | Function Examples :white_check_mark:       | Tree Recursion                              | /                  |  /                         | /                          |
 | 8 | Midterm 1 :white_check_mark:               | More on Functions                           | /                  |  /                         | /                          |
 | 9 | Recursion :white_check_mark:               | Function Examples                           | /                  |  Disc03 :white_check_mark: | /                          |
@@ -245,7 +245,7 @@
 | 8 | Dividing Whole Numbers - Part 2 | :white_check_mark: |
 | 9 | Review for Test 1 | :white_check_mark: |
 | 10 | Test 1 | :white_check_mark: |
-| 11 | Fractions and Fraction Equivalency | TBD |
+| 11 | Fractions and Fraction Equivalency | :white_check_mark: |
 | 12 | Adding and Subtracting Fractions | TBD |
 | 13 | Multiplying and Dividing Fractions | TBD |
 | 14 | Adding and Subtracting Mixed Numbers | TBD |
