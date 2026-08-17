@@ -113,31 +113,31 @@
 
 ### ------------Intro to CS------------
 #### MIT 6.0001 - Introduction to Computer Science and Programming using Python
-| No. | Lecture                                                      | Finger Exercises    | Problem Sets              |  Problem Sets             |
+| No. | Lecture                                                      | Finger Exercises    | Quizes and Recitations    |  Problem Sets             |
 |----|---------------------------------------------------------------|---------------------|---------------------------|---------------------------|
-| 1 | Intro :white_check_mark:                                       | :white_check_mark:  | /                         | PSET00 :white_check_mark: |
+| 1 | Intro :white_check_mark:                                       | :white_check_mark:  | Recitation 1              | PSET00 :white_check_mark: |
 | 2 | Strings, Input/Output, Branching :white_check_mark:            | :white_check_mark:  | /                         | /                         |
 | 3 | Iteration :white_check_mark:                                   | :white_check_mark:  | Quiz 1 :white_check_mark: | /                         |
-| 4 | Loops over Strings, Guess-and-Check, Binary :white_check_mark: | :white_check_mark:  | /                         | /                         |
+| 4 | Loops over Strings, Guess-and-Check, Binary :white_check_mark: | :white_check_mark:  | Recitation 2              | /                         |
 | 5 | Floats and Approximation Methods :white_check_mark:            | :white_check_mark:  | Quiz 2 :white_check_mark: | /                         |
-| 6 | Bisection Search :white_check_mark:                            | :white_check_mark:  | /                         | /                         |
-| 7 | Decomposition, Abstraction, Functions                          | /                   | Quiz 3                    | /                         |
-| 8 | Functions as Objects                                           | /                   | /                         | PSET01                    |
-| 9 | Lambda Functions, Tuples, and Lists                            | /                   | Quiz 4                    | /                         |
-| 10 | Lists, Mutability                                             | /                   | /                         | /                         |
+| 6 | Bisection Search :white_check_mark:                            | :white_check_mark:  | Recitation 3              | /                         |
+| 7 | Decomposition, Abstraction, Functions :white_check_mark:       | :white_check_mark:  | Quiz 3                    | /                         |
+| 8 | Functions as Objects :white_check_mark:                        | :white_check_mark:  | Recitation 4              | PSET01                    |
+| 9 | Lambda Functions, Tuples, and Lists :white_check_mark:         | :white_check_mark:  | Quiz 4                    | /                         |
+| 10 | Lists, Mutability                                             | /                   | Recitation 5              | /                         |
 | 11 | Aliasing, Cloning                                             | /                   | Quiz 5                    | PSET02                    |
-| 12 | List Comprehension, Testing, Debugging                        | /                   | /                         | /                         |
+| 12 | List Comprehension, Testing, Debugging                        | /                   | Recitation 6              | /                         |
 | 13 | Exceptions, Assertions                                        | /                   | Quiz 6                    | /                         |
-| 14 | Dictionaries                                                  | /                   | /                         | /                         |
+| 14 | Dictionaries                                                  | /                   | Recitation 7              | /                         |
 | 15 | Recursion                                                     | /                   | Quiz 7                    | PSET03                    |
-| 16 | Recursion on Non-Numerics                                     | /                   | /                         | /                         |
+| 16 | Recursion on Non-Numerics                                     | /                   | Recitation 8              | /                         |
 | 17 | Python Classes                                                | /                   | Quiz 8                    | /                         |
 | 18 | More Python Class Methods                                     | /                   | /                         | /                         |
 | 19 | Inheritance                                                   | /                   | /                         | PSET04                    |
-| 20 | Fitness Tracker OOP                                           | /                   | /                         | /                         |
+| 20 | Fitness Tracker OOP                                           | /                   | Recitation 9              | /                         |
 | 21 | Timing Programs, Counting Operations                          | /                   | Quiz 9                    | /                         |
 | 22 | Big Oh and Theta                                              | /                   | /                         | /                         |
-| 23 | Complexity Classes Examples                                   | /                   | /                         | /                         |
+| 23 | Complexity Classes Examples                                   | /                   | Recitation 10             | /                         |
 | 24 | Sorting Algorithms                                            | /                   | Quiz 10                   | PSET05                    |
 | 25 | Plotting                                                      | /                   | /                         | /                         |
 | 26 | List Access, Hashing, Simulations                             | /                   | /                         | /                         |
@@ -151,13 +151,13 @@
 | 4 | Higher-Order Functions :white_check_mark:  | Higher-Order Functions :white_check_mark:   | :white_check_mark: | Disc01 :white_check_mark:  | Hog :white_check_mark:     |
 | 5 | Environments :white_check_mark:            | Environments :white_check_mark:             | /                  | lab02 :white_check_mark:   | /                          |
 | 6 | Functional Abstraction :white_check_mark:  | Recursion :white_check_mark:                | /                  | disc02 :white_check_mark:  | /                          |
-| 7 | Function Examples :white_check_mark:       | Tree Recursion                              | /                  |  /                         | /                          |
-| 8 | Midterm 1 :white_check_mark:               | More on Functions                           | /                  |  /                         | /                          |
-| 9 | Recursion :white_check_mark:               | Function Examples                           | /                  |  Disc03 :white_check_mark: | /                          |
-| 10 | Tree Recursion :white_check_mark:         | Containers                                  | /                  | /                          | HW03 :white_check_mark:    |
-| 11 | Sequences :white_check_mark:              | Data Abstraction                            | /                  | lab03                      | /                          | 
-| 12 | Containers :white_check_mark:             | Dictionaries, Matrices                      | /                  | disc04                     | Cats                       |
-| 13 | Data Abstraction                          | Trees, Mutability                           | /                  | /                          | HW04                       |
+| 7 | Function Examples :white_check_mark:       | Tree Recursion :white_check_mark:           | /                  |  /                         | /                          |
+| 8 | Midterm 1 :white_check_mark:               | More on Functions :white_check_mark:        | /                  |  /                         | /                          |
+| 9 | Recursion :white_check_mark:               | Function Examples :white_check_mark:        | /                  | Disc03 :white_check_mark:  | /                          |
+| 10 | Tree Recursion :white_check_mark:         | Containers :white_check_mark:               | /                  | /                          | HW03 :white_check_mark:    |
+| 11 | Sequences :white_check_mark:              | Data Abstraction :white_check_mark:         | /                  | lab03 :white_check_mark:   | /                          | 
+| 12 | Containers :white_check_mark:             | Dictionaries, Matrices                      | /                  | disc04 :white_check_mark:  | Cats                       |
+| 13 | Data Abstraction :white_check_mark:       | Trees, Mutability                           | /                  | /                          | HW04                       |
 | 14 | Trees                                     | List Mutations, Identity                    | /                  | lab04                      | /                          |
 | 15 | Mutability                                | Iterators + Generators                      | /                  | disc05                     | /                          |
 | 16 | Iterators                                 | Objects + Classes                           | /                  | /                          | HW04                       |
@@ -246,7 +246,7 @@
 | 9 | Review for Test 1 | :white_check_mark: |
 | 10 | Test 1 | :white_check_mark: |
 | 11 | Fractions and Fraction Equivalency | :white_check_mark: |
-| 12 | Adding and Subtracting Fractions | TBD |
+| 12 | Adding and Subtracting Fractions | :white_check_mark: |
 | 13 | Multiplying and Dividing Fractions | TBD |
 | 14 | Adding and Subtracting Mixed Numbers | TBD |
 | 15 | Multiplying and Dividing Mixed Numbers | TBD |
