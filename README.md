@@ -115,29 +115,29 @@
 #### MIT 6.0001 - Introduction to Computer Science and Programming using Python
 | No. | Lecture                                                      | Finger Exercises    | Quizes and Recitations    |  Problem Sets             |
 |----|---------------------------------------------------------------|---------------------|---------------------------|---------------------------|
-| 1 | Intro :white_check_mark:                                       | :white_check_mark:  | Recitation 1              | PSET00 :white_check_mark: |
+| 1 | Intro :white_check_mark:                                       | :white_check_mark:  | Rec 1 :white_check_mark:  | PSET00 :white_check_mark: |
 | 2 | Strings, Input/Output, Branching :white_check_mark:            | :white_check_mark:  | /                         | /                         |
 | 3 | Iteration :white_check_mark:                                   | :white_check_mark:  | Quiz 1 :white_check_mark: | /                         |
-| 4 | Loops over Strings, Guess-and-Check, Binary :white_check_mark: | :white_check_mark:  | Recitation 2              | /                         |
+| 4 | Loops over Strings, Guess-and-Check, Binary :white_check_mark: | :white_check_mark:  | Rec 2 :white_check_mark:  | /                         |
 | 5 | Floats and Approximation Methods :white_check_mark:            | :white_check_mark:  | Quiz 2 :white_check_mark: | /                         |
-| 6 | Bisection Search :white_check_mark:                            | :white_check_mark:  | Recitation 3              | /                         |
-| 7 | Decomposition, Abstraction, Functions :white_check_mark:       | :white_check_mark:  | Quiz 3                    | /                         |
-| 8 | Functions as Objects :white_check_mark:                        | :white_check_mark:  | Recitation 4              | PSET01                    |
-| 9 | Lambda Functions, Tuples, and Lists :white_check_mark:         | :white_check_mark:  | Quiz 4                    | /                         |
-| 10 | Lists, Mutability                                             | /                   | Recitation 5              | /                         |
+| 6 | Bisection Search :white_check_mark:                            | :white_check_mark:  | Rec 3 :white_check_mark:  | /                         |
+| 7 | Decomposition, Abstraction, Functions :white_check_mark:       | :white_check_mark:  | Quiz 3 :white_check_mark: | /                         |
+| 8 | Functions as Objects :white_check_mark:                        | :white_check_mark:  | Rec 4 :white_check_mark:  | PSET01 :white_check_mark: |
+| 9 | Lambda Functions, Tuples, and Lists :white_check_mark:         | :white_check_mark:  | Quiz 4 :white_check_mark: | /                         |
+| 10 | Lists, Mutability                                             | /                   | Rec 5                     | /                         |
 | 11 | Aliasing, Cloning                                             | /                   | Quiz 5                    | PSET02                    |
-| 12 | List Comprehension, Testing, Debugging                        | /                   | Recitation 6              | /                         |
+| 12 | List Comprehension, Testing, Debugging                        | /                   | Rec 6                     | /                         |
 | 13 | Exceptions, Assertions                                        | /                   | Quiz 6                    | /                         |
-| 14 | Dictionaries                                                  | /                   | Recitation 7              | /                         |
+| 14 | Dictionaries                                                  | /                   | Rec 7                     | /                         |
 | 15 | Recursion                                                     | /                   | Quiz 7                    | PSET03                    |
-| 16 | Recursion on Non-Numerics                                     | /                   | Recitation 8              | /                         |
+| 16 | Recursion on Non-Numerics                                     | /                   | Rec 8                     | /                         |
 | 17 | Python Classes                                                | /                   | Quiz 8                    | /                         |
 | 18 | More Python Class Methods                                     | /                   | /                         | /                         |
 | 19 | Inheritance                                                   | /                   | /                         | PSET04                    |
-| 20 | Fitness Tracker OOP                                           | /                   | Recitation 9              | /                         |
+| 20 | Fitness Tracker OOP                                           | /                   | Rec 9                     | /                         |
 | 21 | Timing Programs, Counting Operations                          | /                   | Quiz 9                    | /                         |
 | 22 | Big Oh and Theta                                              | /                   | /                         | /                         |
-| 23 | Complexity Classes Examples                                   | /                   | Recitation 10             | /                         |
+| 23 | Complexity Classes Examples                                   | /                   | Rec 10                    | /                         |
 | 24 | Sorting Algorithms                                            | /                   | Quiz 10                   | PSET05                    |
 | 25 | Plotting                                                      | /                   | /                         | /                         |
 | 26 | List Access, Hashing, Simulations                             | /                   | /                         | /                         |
