@@ -29,8 +29,8 @@
 
 | No. | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|----------|
-| [1](#mit-60001---introduction-to-computer-science-and-programming-using-python) | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/syllabus/) | Python | 15/06/2026 | TBD | TBD |
-| [2](#cs61a---structure-and-interpretation-of-computer-programs) | [CS61A - Structure and Interpretation of Computer Programs](https://insideempire.github.io/CS61A-Website-Archive/) | Python | 15/06/2026 | TBD | TBD |
+| [1](#mit-60001---introduction-to-computer-science-and-programming-using-python) | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/syllabus/) | Python | 24/07/2026 | TBD | [Repo](https://github.com/Kristina2025/MIT60001) |
+| [2](#cs61a---structure-and-interpretation-of-computer-programs) | [CS61A - Structure and Interpretation of Computer Programs](https://insideempire.github.io/CS61A-Website-Archive/) | Python | 24/07/2026 | TBD | [Repo](https://github.com/Kristina2025/CS61a-Fall2024) |
 
 ### 2. Core CS
 
