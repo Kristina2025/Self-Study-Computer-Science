@@ -156,8 +156,8 @@
 | 9 | Recursion :white_check_mark:               | Function Examples :white_check_mark:        | /                  | Disc03 :white_check_mark:  | /                          |
 | 10 | Tree Recursion :white_check_mark:         | Containers :white_check_mark:               | /                  | /                          | HW03 :white_check_mark:    |
 | 11 | Sequences :white_check_mark:              | Data Abstraction :white_check_mark:         | /                  | lab03 :white_check_mark:   | /                          | 
-| 12 | Containers :white_check_mark:             | Dictionaries, Matrices                      | /                  | disc04 :white_check_mark:  | Cats                       |
-| 13 | Data Abstraction :white_check_mark:       | Trees, Mutability                           | /                  | /                          | HW04                       |
+| 12 | Containers :white_check_mark:             | Dictionaries, Matrices :white_check_mark:   | /                  | disc04 :white_check_mark:  | Cats                       |
+| 13 | Data Abstraction :white_check_mark:       | Trees, Mutability                           | /                  | /                          | /                          |
 | 14 | Trees                                     | List Mutations, Identity                    | /                  | lab04                      | /                          |
 | 15 | Mutability                                | Iterators + Generators                      | /                  | disc05                     | /                          |
 | 16 | Iterators                                 | Objects + Classes                           | /                  | /                          | HW04                       |
