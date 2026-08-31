@@ -124,7 +124,7 @@
 | 7 | Decomposition, Abstraction, Functions :white_check_mark:       | :white_check_mark:  | Quiz 3 :white_check_mark: | /                         |
 | 8 | Functions as Objects :white_check_mark:                        | :white_check_mark:  | Rec 4 :white_check_mark:  | PSET01 :white_check_mark: |
 | 9 | Lambda Functions, Tuples, and Lists :white_check_mark:         | :white_check_mark:  | Quiz 4 :white_check_mark: | /                         |
-| 10 | Lists, Mutability                                             | /                   | Rec 5                     | /                         |
+| 10 | Lists, Mutability :white_check_mark:                          | :white_check_mark:  | Rec 5 :white_check_mark:  | /                         |
 | 11 | Aliasing, Cloning                                             | /                   | Quiz 5                    | PSET02                    |
 | 12 | List Comprehension, Testing, Debugging                        | /                   | Rec 6                     | /                         |
 | 13 | Exceptions, Assertions                                        | /                   | Quiz 6                    | /                         |
@@ -247,7 +247,7 @@
 | 10 | Test 1 | :white_check_mark: |
 | 11 | Fractions and Fraction Equivalency | :white_check_mark: |
 | 12 | Adding and Subtracting Fractions | :white_check_mark: |
-| 13 | Multiplying and Dividing Fractions | TBD |
+| 13 | Multiplying and Dividing Fractions | :white_check_mark: |
 | 14 | Adding and Subtracting Mixed Numbers | TBD |
 | 15 | Multiplying and Dividing Mixed Numbers | TBD |
 | 16 | Review for Test 2 | TBD |
