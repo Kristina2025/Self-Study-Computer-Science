@@ -125,8 +125,8 @@
 | 8 | Functions as Objects :white_check_mark:                        | :white_check_mark:  | Rec 4 :white_check_mark:  | PSET01 :white_check_mark: |
 | 9 | Lambda Functions, Tuples, and Lists :white_check_mark:         | :white_check_mark:  | Quiz 4 :white_check_mark: | /                         |
 | 10 | Lists, Mutability :white_check_mark:                          | :white_check_mark:  | Rec 5 :white_check_mark:  | /                         |
-| 11 | Aliasing, Cloning                                             | /                   | Quiz 5                    | PSET02                    |
-| 12 | List Comprehension, Testing, Debugging                        | /                   | Rec 6                     | /                         |
+| 11 | Aliasing, Cloning :white_check_mark:                          | :white_check_mark:  | Quiz 5 :white_check_mark: | PSET02 :white_check_mark: |
+| 12 | List Comprehension, Testing, Debugging :white_check_mark:     | :white_check_mark:  | Rec 6 :white_check_mark:  | /                         |
 | 13 | Exceptions, Assertions                                        | /                   | Quiz 6                    | /                         |
 | 14 | Dictionaries                                                  | /                   | Rec 7                     | /                         |
 | 15 | Recursion                                                     | /                   | Quiz 7                    | PSET03                    |
