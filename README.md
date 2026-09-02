@@ -158,7 +158,7 @@
 | 11 | Sequences :white_check_mark:              | Data Abstraction :white_check_mark:         | /                  | lab03 :white_check_mark:   | /                          | 
 | 12 | Containers :white_check_mark:             | Dictionaries, Matrices :white_check_mark:   | /                  | disc04 :white_check_mark:  | Cats                       |
 | 13 | Data Abstraction :white_check_mark:       | Trees, Mutability                           | /                  | /                          | /                          |
-| 14 | Trees                                     | List Mutations, Identity                    | /                  | lab04                      | /                          |
+| 14 | Trees :white_check_mark:                  | List Mutations, Identity                    | /                  | lab04 :white_check_mark:   | /                          |
 | 15 | Mutability                                | Iterators + Generators                      | /                  | disc05                     | /                          |
 | 16 | Iterators                                 | Objects + Classes                           | /                  | /                          | HW04                       |
 | 17 | Generators                                | Inheritance + Composition                   | /                  | lab05                      | /                          |
