@@ -156,11 +156,11 @@
 | 9 | Recursion :white_check_mark:               | Function Examples :white_check_mark:        | /                  | Disc03 :white_check_mark:  | /                          |
 | 10 | Tree Recursion :white_check_mark:         | Containers :white_check_mark:               | /                  | /                          | HW03 :white_check_mark:    |
 | 11 | Sequences :white_check_mark:              | Data Abstraction :white_check_mark:         | /                  | lab03 :white_check_mark:   | /                          | 
-| 12 | Containers :white_check_mark:             | Dictionaries, Matrices :white_check_mark:   | /                  | disc04 :white_check_mark:  | Cats                       |
-| 13 | Data Abstraction :white_check_mark:       | Trees, Mutability                           | /                  | /                          | /                          |
-| 14 | Trees :white_check_mark:                  | List Mutations, Identity                    | /                  | lab04 :white_check_mark:   | /                          |
-| 15 | Mutability                                | Iterators + Generators                      | /                  | disc05                     | /                          |
-| 16 | Iterators                                 | Objects + Classes                           | /                  | /                          | HW04                       |
+| 12 | Containers :white_check_mark:             | Dictionaries, Matrices :white_check_mark:   | /                  | disc04 :white_check_mark:  | Cats :white_check_mark:    |
+| 13 | Data Abstraction :white_check_mark:       | Trees, Mutability :white_check_mark:        | /                  | /                          | /                          |
+| 14 | Trees :white_check_mark:                  | List Mutations, Identity :white_check_mark: | /                  | lab04 :white_check_mark:   | /                          |
+| 15 | Mutability :white_check_mark:             | Iterators + Generators :white_check_mark:   | /                  | disc05 :white_check_mark:  | /                          |
+| 16 | Iterators :white_check_mark:              | Objects + Classes                           | /                  | /                          | HW04                       |
 | 17 | Generators                                | Inheritance + Composition                   | /                  | lab05                      | /                          |
 | 18 | Objects                                   | Special Object Methods                      | /                  | disc06                     | HW05                       |
 | 19 | Attributes                                | Recursive Objects                           | /                  | /                          | Ants                       |
